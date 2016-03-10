@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/Capricorn/.zprezto'
+let g:netrw_dirhist_2='/Users/Capricorn/.zprezto/runcoms'
+let g:netrw_dirhist_3='/Users/Capricorn/.zprezto'
+let g:netrw_dirhist_4='/Users/Capricorn/.vim/bundle/split-expander'
